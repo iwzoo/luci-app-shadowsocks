@@ -27,6 +27,7 @@ local encrypt_methods = {
 	"chacha20-ietf",
 	"chacha20-ietf-poly1305",
 	"xchacha20-ietf-poly1305",
+	"plain"
 }
 
 local protocols = {
